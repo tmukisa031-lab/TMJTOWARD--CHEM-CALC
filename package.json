@@ -1,0 +1,18 @@
+{
+  "name": "titusmukisamjtoward-chemistry-calculator",
+  "version": "1.0.0",
+  "description": "Chemistry Calculator by TitusMukisaMJToward",
+  "main": "backend/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
